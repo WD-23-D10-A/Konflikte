@@ -1,7 +1,5 @@
 # Konflikte
 
-
-
 - Herby
 - Stina
 - Lea G. 
@@ -9,4 +7,4 @@
 - Tim
 - Mark 
 - Steven
-
+- Artiom
