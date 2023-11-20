@@ -1,6 +1,6 @@
  Konflikte
-
-
+ 
+  Mario
 - Herby
 - Stina
 - Lea G. 
@@ -18,7 +18,9 @@
 - Artiom
 - Adem Tozlu
 - Robert
+-  Handrin
+- Robert
 
 
 
-Mario
+
