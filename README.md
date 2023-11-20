@@ -1,13 +1,12 @@
 # Konflikte
 
 
-markBranch
-
-Name: Mark 
-
-Steven
 
 - Herby
 - Stina
 - Lea G. 
 - Benni
+- Tim
+- Mark 
+- Steven
+
