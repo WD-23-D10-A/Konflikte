@@ -1,6 +1,6 @@
  Konflikte
-
-
+ 
+  Mario
 - Herby
 - Stina
 - Lea G. 
@@ -8,6 +8,7 @@
 - Tim
 - Mark 
 - Steven
+- Adem Tozlu
 - Mohamed
 - Adem Tozlu
 - Muhammed
@@ -15,5 +16,11 @@
 - Youssef
 - Hayriye
 - Artiom
-- Handrin
+- Adem Tozlu
 - Robert
+-  Handrin
+- Robert
+
+
+
+
