@@ -1,4 +1,5 @@
-# Konflikte
+ Konflikte
+
 
 - Herby
 - Stina
@@ -7,15 +8,17 @@
 - Tim
 - Mark 
 - Steven
-
 - Adem Tozlu
-
- 
+- Mohamed
+- Adem Tozlu
+- Muhammed
+- kevin
 - Youssef
 - Hayriye
 - Artiom
 - Adem Tozlu
+- Robert
+
+
 
 Mario
-
-
