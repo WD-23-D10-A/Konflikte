@@ -1,6 +1,12 @@
 # Konflikte
 
-Lea G. 
 
 
+- Herby
+- Stina
+- Lea G. 
+- Benni
+- Tim
+- Mark 
+- Steven
 
