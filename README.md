@@ -1,6 +1,4 @@
 # Konflikte
 
-Lea G. 
-
-
+Steven
 
