@@ -1,7 +1,5 @@
 # Konflikte
 
-
-
 - Herby
 - Stina
 - Lea G. 
@@ -10,3 +8,8 @@
 - Mark 
 - Steven
 - Muhammed
+- kevin
+- Youssef
+- Hayriye
+- Artiom
+- Adem Tozlu
