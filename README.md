@@ -1,3 +1,3 @@
 # Konflikte
 
-Lea 
+Lea G. 
