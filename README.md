@@ -1,3 +1,12 @@
 # Konflikte
 
-**Tim Stegemann**
+
+
+- Herby
+- Stina
+- Lea G. 
+- Benni
+- Tim
+- Mark 
+- Steven
+
