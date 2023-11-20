@@ -1,4 +1,4 @@
-# Konflikte
+ Konflikte
 
 
 - Herby
@@ -10,12 +10,10 @@
 - Steven
 - Mohamed
 - Adem Tozlu
-
-
 - Muhammed
 - kevin
 - Youssef
 - Hayriye
 - Artiom
-- Adem Tozlu
 - Handrin
+- Robert
