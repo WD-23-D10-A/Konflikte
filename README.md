@@ -6,4 +6,7 @@ Name: Mark
 
 Steven
 
-Lea
+- Herby
+- Stina
+- Lea G. 
+
